@@ -8,7 +8,11 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 ## Kurulum
 
-[Kurulum Videosu](kurulum.mp4)
+
+
+https://github.com/user-attachments/assets/8258e369-69ff-4a09-ac6b-b66e2ed96f19
+
+
 
 ## Uyumlu sürüm
 
