@@ -10,7 +10,7 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 ###ryujinx canary
 
-https://github.com/user-attachments/assets/6fb8c081-67e7-4f7f-b023-5fe6cf101c23
+https://github.com/user-attachments/assets/846f3607-4be9-492d-b8aa-9a7eb5fb4f3a
 
 ### Diğer emülatörler
 
