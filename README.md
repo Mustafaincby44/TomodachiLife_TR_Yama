@@ -10,8 +10,6 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 
 
-https://github.com/user-attachments/assets/8258e369-69ff-4a09-ac6b-b66e2ed96f19
-
 
 
 ## Uyumlu sürüm
