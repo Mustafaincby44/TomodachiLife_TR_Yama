@@ -1,0 +1,1 @@
+# TomodachiLife_TR_Yama
