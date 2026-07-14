@@ -8,7 +8,7 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 ## Kurulum
 
-
+[Kurulum Videosu](kurulum.mp4)
 
 ## Uyumlu sürüm
 
