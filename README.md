@@ -12,6 +12,8 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 https://github.com/user-attachments/assets/6fb8c081-67e7-4f7f-b023-5fe6cf101c23
 
+### Diğer emülatörler
+
 Diğer emülatörlerde de yama dosyalarını oyunun mod klasörüne ekleyerek kullanabilirsiniz.
 
 
