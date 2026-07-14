@@ -48,7 +48,7 @@ Her ne kadar uzun süre test edilmiş olsa da gözden kaçan yazım hataları ve
 
 Bunları bana Instagram üzerinden iletebilirsiniz:
 
-**@_mustafa._.i**
+"**@_mustafa._.i**"
 
 ## Not
 
