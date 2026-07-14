@@ -8,7 +8,7 @@ Oyunun menülerini, diyaloglarını ve birçok metnini olabildiğince doğal ve 
 
 ## Kurulum
 
-###ryujinx canary
+### Ryujinx canary
 
 https://github.com/user-attachments/assets/846f3607-4be9-492d-b8aa-9a7eb5fb4f3a
 
